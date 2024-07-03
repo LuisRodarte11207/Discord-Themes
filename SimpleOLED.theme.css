@@ -1,0 +1,261 @@
+/**
+ * @name Simple OLED
+ * @description Pure Black for better eye rest
+ * @version 1.0.0
+ * @author Luis Rodarte
+ * @authorId otaroko11207
+ */
+
+#online-tab,
+#all-tab,
+#pending-tab,
+#blocked-tab,
+#add_friend-tab {
+  color: white;
+  background-color: black;
+}
+
+.title_a1cafe {
+  color: rgb(230, 230, 230);
+}
+
+.actionButton_e01b91 /*Buttons*/ {
+  background-color: rgb(20, 20, 20);
+}
+
+.actionButton_e01b91:hover > svg {
+  color: gray;
+}
+
+.icon_e01b91 {
+  /*Buttons*/
+  color: white;
+}
+
+.text_f7ebfd {
+  color: rgb(200, 200, 200);
+}
+
+.peopleListItem_d51464 {
+  border-top: 1px solid rgb(100, 100, 100);
+}
+
+.inner_c18ec9 {
+  /*Search bar*/
+  background-color: rgb(25, 25, 25);
+}
+
+.text_a3747e {
+  color: white;
+}
+
+/*Side bar*/
+
+div.sidebar_a4d4d9 nav.privateChannels_f0963d div {
+  background-color: black;
+  color: white;
+}
+
+div.sidebar_a4d4d9 {
+  border-right: 1px solid rgb(50, 50, 50);
+}
+
+div.sidebar_a4d4d9 nav.privateChannels_f0963d .channel_c91bad:hover {
+  background-color: rgb(200, 200, 200);
+  text-shadow: 0 0 5px white;
+}
+
+.panels_a4d4d9 .container_b2ca13 {
+  background-color: black;
+  border-top: 1px solid rgb(50, 50, 50);
+}
+
+.panels_a4d4d9 .container_adcaac {
+  background-color: black;
+  border-top: 1px solid rgb(50, 50, 50);
+}
+
+.panels_a4d4d9 .activityPanel_a4d4d9 {
+  background-color: black;
+  border-top: 1px solid rgb(50, 50, 50);
+}
+
+.button_f67531 svg {
+  color: white;
+}
+
+.button_f67531:hover svg {
+  color: rgb(200, 200, 200);
+}
+
+.userPopoutInner_c69a7b {
+  background-color: black;
+  border: 1px solid rgb(50, 50, 50);
+}
+
+.bannerSVGWrapper_b32cc2 {
+  border-bottom: 1px solid rgb(50, 50, 50);
+}
+
+/*Activity panel*/
+
+.nowPlayingColumn_c2739c aside {
+  background-color: black;
+}
+
+.nowPlayingColumn_c2739c aside div {
+  color: white;
+}
+
+.text_aa267a {
+  background-color: rgb(25, 25, 25);
+}
+
+/**/
+
+.tree_fea3ef {
+  background-color: black;
+  border-right: 1px solid rgb(50, 50, 50);
+}
+
+/*Top*/
+
+main.container_c2739c section.container_e44302 {
+  background-color: black;
+  color: white;
+  border-bottom: 1px solid rgb(50, 50, 50);
+}
+
+main.container_c2739c section.container_e44302 svg {
+  color: white;
+}
+
+/*Chats*/
+
+.chatContent_a7d72e,
+.scrollableContainer_d0696b {
+  background-color: black;
+  color: white;
+  border: 1px solid rgb(50, 50, 50);
+}
+
+.userPanelOuter_c69a7b .userPanelInner_c69a7b .scrollerBase_c49869 {
+  background-color: black;
+  color: white;
+  border: 1px solid rgb(50, 50, 50);
+}
+
+.footer_be6801 {
+  background-color: black;
+  color: white;
+  border-top: 1px solid rgb(50, 50, 50);
+}
+
+.container_ee69e0 .scroller_c43953 {
+  background-color: black;
+}
+
+.container_ee69e0 .scroller_c43953 ul li div {
+  color: white;
+}
+
+.container_ee69e0 .scroller_c43953 ul li div svg {
+  color: white;
+}
+
+.header_fd6364 {
+  background-color: black;
+  color: white;
+  border-bottom: 1px solid rgb(50, 50, 50);
+}
+
+.members_cbd271,
+.member_a31c43 {
+  background-color: black;
+  color: white;
+}
+
+.memberInner_a31c43:hover {
+  text-shadow: 0 0 5px;
+}
+
+.subtitleContainer_a7d72e .title_a7d72e {
+  background-color: black;
+  border-bottom: 1px solid rgb(50, 50, 50);
+}
+
+.subtitleContainer_a7d72e .title_a7d72e svg {
+  color: white;
+}
+
+.container_cbd271 {
+  background-color: black;
+}
+
+/*Add Server*/
+
+.container_a4d79f,
+.flex_bba380 {
+  background-color: black;
+  color: white;
+}
+
+.container_a47d49 {
+  background-color: rgb(20, 20, 20);
+}
+
+/*Explore Servers*/
+
+.sidebar_a4d4d9 {
+  background-color: black;
+}
+
+.sidebar_a4d4d9 div {
+  color: white;
+}
+
+.scroller_a3a4ce {
+  background-color: black;
+  color: white;
+}
+
+/*Create DM*/
+
+.scroller_e6af9c {
+  background-color: black;
+}
+
+/*Inbox*/
+
+.header_f0cd33,
+.container_f1c3d9,
+.container_f8a938,
+.messagesPopout_ac90a2 {
+  background-color: black;
+  color: white;
+  border: 1px solid rgb(50, 50, 50);
+}
+
+/*Config*/
+
+.sidebarRegionScroller_c25c6d {
+  background-color: black;
+  border-right: 1px solid rgb(50, 50, 50);
+}
+
+.sidebarRegionScroller_c25c6d nav .item_a0,
+.sidebarRegionScroller_c25c6d nav .header_a0 {
+  color: white;
+}
+
+.contentRegionScroller_c25c6d {
+  background-color: black;
+  color: white;
+}
+
+/*What's new*/
+
+.content_f9a4c9 {
+  background-color: black;
+  color: white;
+}
