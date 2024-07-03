@@ -193,6 +193,11 @@ main.container_c2739c section.container_e44302 svg {
   background-color: black;
 }
 
+.userProfileInner_c69a7b {
+  background-color: black;
+  border: 1px solid rgb(50, 50, 50);
+}
+
 /*Add Server*/
 
 .container_a4d79f,
