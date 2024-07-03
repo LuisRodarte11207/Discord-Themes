@@ -260,3 +260,28 @@ main.container_c2739c section.container_e44302 svg {
   background-color: black;
   color: white;
 }
+
+/*Nitro*/
+
+.container_a8b566 {
+  background-color: black;
+}
+
+/*Shop*/
+
+.pageWrapper_e77fa3 {
+  background-color: black;
+}
+
+.shop_e77fa3 .shopScroll_e77fa3 .headerBar_d8354c .upperContainer_e44302 {
+  background-color: black;
+  color: white;
+  border-bottom: 1px solid rgb(50, 50, 50);
+  margin-left: -15px;
+  margin-right: -15px;
+  padding: 15px;
+}
+
+.caretButton_d3ddd1 {
+  z-index: 1;
+}
