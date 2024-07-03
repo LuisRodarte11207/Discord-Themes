@@ -198,6 +198,12 @@ main.container_c2739c section.container_e44302 svg {
   border: 1px solid rgb(50, 50, 50);
 }
 
+/*Calls*/
+
+.callContainer_d880dc .root_dd069c {
+  background-color: black;
+}
+
 /*Add Server*/
 
 .container_a4d79f,
