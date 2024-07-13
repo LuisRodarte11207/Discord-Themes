@@ -1,7 +1,7 @@
 /**
  * @name Simple OLED
  * @description Pure Black for better eye rest
- * @version 1.0.0
+ * @version 1.1.0
  * @author Luis Rodarte
  * @authorId otaroko11207
  * @source https://github.com/LuisRodarte11207/Simple-OLED-Discord
@@ -121,13 +121,17 @@ div.sidebar_a4d4d9 nav.privateChannels_f0963d .channel_c91bad:hover {
 
 /*Top*/
 
-main.container_c2739c section.container_e44302 {
+main.container_c2739c section.container_fc4f04 {
   background-color: black;
   color: white;
   border-bottom: 1px solid rgb(50, 50, 50);
 }
 
-main.container_c2739c section.container_e44302 svg {
+.upperContainer_fc4f04 .item_c2739c {
+  color: white;
+}
+
+main.container_c2739c section.container_fc4f04 svg {
   color: white;
 }
 
@@ -226,7 +230,7 @@ main.container_c2739c section.container_e44302 svg {
 
 /*Explore Servers*/
 
-.sidebar_a4d4d9 {
+.sidebar_a4d4d9 .sidebarContainer_a3a4ce {
   background-color: black;
 }
 
@@ -235,6 +239,22 @@ main.container_c2739c section.container_e44302 svg {
 }
 
 .scroller_a3a4ce {
+  background-color: black;
+  color: white;
+}
+
+/*Join a Server*/
+
+.thin_c49869 {
+  background-color: black;
+}
+
+.focusLock_f9a4c9 .main_e3f8c2 {
+  background-color: black;
+  color: white;
+}
+
+.modal_a74b6f .footer_f9a4c9 {
   background-color: black;
   color: white;
 }
@@ -254,6 +274,15 @@ main.container_c2739c section.container_e44302 svg {
   background-color: black;
   color: white;
   border: 1px solid rgb(50, 50, 50);
+}
+
+.container_fe1358 {
+  background-color: black;
+  border: 1px solid rgb(50, 50, 50);
+}
+
+.container_fe1358 span {
+  color: white;
 }
 
 /*Config*/
@@ -286,7 +315,7 @@ main.container_c2739c section.container_e44302 svg {
   background-color: black;
 }
 
-.headerBar_d175a8 .upperContainer_e44302 {
+.headerBar_d175a8 .upperContainer_fc4f04 {
   background-color: black;
   color: white;
   border-bottom: 1px solid rgb(50, 50, 50);
@@ -294,7 +323,7 @@ main.container_c2739c section.container_e44302 svg {
   padding: 15px;
 }
 
-.headerBar_d175a8 .upperContainer_e44302 svg {
+.headerBar_d175a8 .upperContainer_fc4f04 svg {
   color: white;
 }
 
@@ -304,7 +333,7 @@ main.container_c2739c section.container_e44302 svg {
   background-color: black;
 }
 
-.headerBar_d8354c .upperContainer_e44302 {
+.headerBar_d8354c .upperContainer_fc4f04 {
   background-color: black;
   color: white;
   border-bottom: 1px solid rgb(50, 50, 50);
@@ -313,7 +342,7 @@ main.container_c2739c section.container_e44302 svg {
   padding: 15px;
 }
 
-.headerBar_d8354c .upperContainer_e44302 svg {
+.headerBar_d8354c .upperContainer_fc4f04 svg {
   color: white;
 }
 
