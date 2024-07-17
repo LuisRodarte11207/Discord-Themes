@@ -1,7 +1,7 @@
 /**
  * @name Simple OLED
  * @description Pure Black for better eye rest
- * @version 1.1.0
+ * @version 1.2.0
  * @author Luis Rodarte
  * @authorId otaroko11207
  * @source https://github.com/LuisRodarte11207/Simple-OLED-Discord
@@ -90,6 +90,11 @@ div.sidebar_a4d4d9 nav.privateChannels_f0963d .channel_c91bad:hover {
 }
 
 .userPopoutInner_c69a7b {
+  background-color: black;
+  border: 1px solid rgb(50, 50, 50);
+}
+
+.activityBiteSizePopout_c1d9fd {
   background-color: black;
   border: 1px solid rgb(50, 50, 50);
 }
@@ -205,10 +210,6 @@ main.container_c2739c section.container_fc4f04 svg {
 /*Calls*/
 
 .callContainer_d880dc .root_dd069c {
-  background-color: black;
-}
-
-.modalSize_e1cc86 {
   background-color: black;
 }
 
